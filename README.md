@@ -1,4 +1,4 @@
-# Mechwarrior 5 Mercenaries Mods I am Using
+# Mechwarrior 5 Mercenaries Mods I am using
 
 This has a link to the mods or it says Steam Workshop next to it if I got it from the Steam Workshop.
 
@@ -6,7 +6,7 @@ I included all the files for the ones I downloaded (but not the Steam Workshop o
 
 ## Steam Workshop
 
-This ones are from the Steam Workshop
+These ones are from the Steam Workshop
 
 ### Remove JumpShip Animation
 
