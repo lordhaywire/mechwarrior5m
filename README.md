@@ -4,9 +4,7 @@ This has a link to the mods or it says Steam Workshop next to it if I got it fro
 
 I included all the files for the ones I downloaded (but not the Steam Workshop ones) and some I am not using right now.  You can turn them on and off in the Mechwarrior 5 Merc Mod options.
 
-[Expanded Logos](https://www.nexusmods.com/mechwarrior5mercenaries/mods/381)
-
-Both 0 and 1.  None of the other files.
+[Expanded Logos](https://www.nexusmods.com/mechwarrior5mercenaries/mods/381) - Both 0 and 1.  None of the other files.
 
 <!-- [Lore Armor Repair](https://www.nexusmods.com/mechwarrior5mercenaries/mods/93) -->
 
