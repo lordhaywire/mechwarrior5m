@@ -44,6 +44,8 @@ I just thought this color was cooler then yellow
 
 ### [Pilot Overhaul](https://www.nexusmods.com/mechwarrior5mercenaries/mods/477)
 
+### [Max Tonnage](https://www.nexusmods.com/mechwarrior5mercenaries/mods/114)
+
 ### [MW5 Compatibility Pack](https://www.nexusmods.com/mechwarrior5mercenaries/mods/168)
 
 You need this for some reason.
