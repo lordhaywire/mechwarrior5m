@@ -8,6 +8,12 @@ For the other Nexus Mod ones you can just download all of them from this reposit
 
 These ones are from the Steam Workshop that are included in the collection above.
 
+### Remove Jumpship Animation
+
+### No Tonnage Limit
+
+## All below this don't seem to work after the update.
+
 ### Colorized HeatGauge
 
 ### Yet Another Mechlab
@@ -24,7 +30,7 @@ These ones are from the Steam Workshop that are included in the collection above
 
 ### TTRUles_AIMod2
 
-### No Tonnage Limit
+
 
 ### MW5 Compatibility Pack
 
