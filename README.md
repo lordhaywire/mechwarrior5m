@@ -8,19 +8,27 @@ For the other Nexus Mod ones you can just download all of them from this reposit
 
 These ones are from the Steam Workshop that are included in the collection above.
 
+### Colorized HeatGauge
+
 ### Yet Another Mechlab
+
+### Yet Another Weapons
 
 ### Yet Another Mechlab Clans
 
 ### Yet Another Mechlab Mechs
 
-### Yet Another Mechlab Weapons
-
 ### Pilot Overhaul
 
-### No Max Tonnage
+### Armor Green
+
+### TTRUles_AIMod2
+
+### No Tonnage Limit
 
 ### MW5 Compatibility Pack
+
+
 
 ## Nexus Mods - Only one is needed from Nexus Mods currently.
 
