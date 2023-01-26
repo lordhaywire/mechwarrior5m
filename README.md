@@ -2,7 +2,7 @@
 
 I have compiled all the Steam mods into this collection: https://steamcommunity.com/sharedfiles/filedetails/?id=2923486435 all you need to do is subscribe to all of them in the list.
 
-For the other ones you can just download all of them from this repository and dump them into your mods folder for Mech Warrior.
+<!--- For the other ones you can just download all of them from this repository and dump them into your mods folder for Mech Warrior.
 
 ## Steam Workshop
 
@@ -21,8 +21,6 @@ These ones are from the Steam Workshop that are included in the collection above
 ### No Max Tonnage
 
 ### MW5 Compatibility Pack
-
-
 
 ## Nexus Mods - It looks like all of them are currently on Steam.  When the Coyotes Missions gets updated either on Nexus Mod or Steam then I will add it to the list.
 
