@@ -2,7 +2,7 @@
 
 I have compiled all the Steam mods into this collection: https://steamcommunity.com/sharedfiles/filedetails/?id=2923486435 all you need to do is subscribe to all of them in the list.
 
-<!--- For the other ones you can just download all of them from this repository and dump them into your mods folder for Mech Warrior.-->
+For the other Nexus Mod ones you can just download all of them from this repository and dump them into your mods folder for Mech Warrior.
 
 ## Steam Workshop
 
