@@ -1,20 +1,12 @@
 # Mechwarrior 5 Mercenaries Mods I am using
 
-This has a link to the mods or it says Steam Workshop next to it if I got it from the Steam Workshop.
+I have compiled all the Steam mods into this collection: https://steamcommunity.com/sharedfiles/filedetails/?id=2923486435 all you need to do is subscribe to all of them in the list.
 
-I included all the files for the ones I downloaded (but not the Steam Workshop ones) and some I am not using right now.  You can turn them on and off in the Mechwarrior 5 Merc Mod options.
+For the other ones you can just download all of them from this repository and dump them into your mods folder for Mech Warrior.
 
 ## Steam Workshop
 
-These ones are from the Steam Workshop
-
-### Remove JumpShip Animation
-
-Removes the stupid Jumpship animation.
-
-### Unlock Coop Tabs
-
-I am not sure this does anything.
+These ones are from the Steam Workshop that are included in the collection above.
 
 ### Yet Another Mechlab
 
@@ -24,32 +16,39 @@ I am not sure this does anything.
 
 ### Yet Another Mechlab Weapons
 
-## Nexus Mods
+### Pilot Overhaul
 
-These ones are from Nexus Mods
+### No Max Tonnage
 
-### [Change Company Name](https://www.nexusmods.com/mechwarrior5mercenaries/mods/294)
+### MW5 Compatibility Pack
 
-### [Coyotes Mission](https://www.nexusmods.com/mechwarrior5mercenaries/mods/263)
 
-### [Expanded Logos](https://www.nexusmods.com/mechwarrior5mercenaries/mods/381)
 
-Both 0 and 1.  None of the other files.
+## Nexus Mods - It looks like all of them are currently on Steam.  When the Coyotes Missions gets updated either on Nexus Mod or Steam then I will add it to the list.
 
-### [Glowing Cockpit Blue](https://www.nexusmods.com/mechwarrior5mercenaries/mods/138)
 
-I just thought this color was cooler then yellow
+<!--- ### [Change Company Name](https://www.nexusmods.com/mechwarrior5mercenaries/mods/294)
+
+<!--- ### [Coyotes Mission](https://www.nexusmods.com/mechwarrior5mercenaries/mods/263)
+
+<!--- ### [Expanded Logos](https://www.nexusmods.com/mechwarrior5mercenaries/mods/381)
+
+<!--- Both 0 and 1.  None of the other files.
+
+<!--- ### [Glowing Cockpit Blue](https://www.nexusmods.com/mechwarrior5mercenaries/mods/138)
+
+<!--- I just thought this color was cooler then yellow
 
 <!-- ### [Lore Armor Repair](https://www.nexusmods.com/mechwarrior5mercenaries/mods/93) -->
 
-### [Pilot Overhaul](https://www.nexusmods.com/mechwarrior5mercenaries/mods/477)
+<!--- ### [Pilot Overhaul](https://www.nexusmods.com/mechwarrior5mercenaries/mods/477)
 
-### [Max Tonnage](https://www.nexusmods.com/mechwarrior5mercenaries/mods/114)
+<!--- ### [Max Tonnage](https://www.nexusmods.com/mechwarrior5mercenaries/mods/114)
 
-### [MW5 Compatibility Pack](https://www.nexusmods.com/mechwarrior5mercenaries/mods/168)
+<!--- ### [MW5 Compatibility Pack](https://www.nexusmods.com/mechwarrior5mercenaries/mods/168)
 
-You need this for some reason.
+<!--- You need this for some reason.
 
-### [Timberwolf Gameplay Orignal Cockpit v1](https://www.nexusmods.com/mechwarrior5mercenaries/mods/621)
+<!--- ### [Timberwolf Gameplay Orignal Cockpit v1](https://www.nexusmods.com/mechwarrior5mercenaries/mods/621)
 
-I just picked one of the variations I thought would look the coolest.
+<!--- I just picked one of the variations I thought would look the coolest.
