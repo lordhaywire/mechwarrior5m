@@ -12,8 +12,6 @@ These ones are from the Steam Workshop that are included in the collection above
 
 ### No Tonnage Limit
 
-## All below this don't seem to work after the update.
-
 ### Colorized HeatGauge
 
 ### Yet Another Mechlab
@@ -30,15 +28,15 @@ These ones are from the Steam Workshop that are included in the collection above
 
 ### TTRUles_AIMod2
 
-
-
 ### MW5 Compatibility Pack
 
 
 
-## Nexus Mods - Only one is needed from Nexus Mods currently.
+## Nexus Mods - Only two are needed from Nexus Mods currently.
 
 ### [Mod Options](https://www.nexusmods.com/mechwarrior5mercenaries/mods/537)
+
+### [Coyotes Mission Pack](https://www.nexusmods.com/mechwarrior5mercenaries/mods/263?tab=description)
 
 
 <!--- ### [Change Company Name](https://www.nexusmods.com/mechwarrior5mercenaries/mods/294) -->
