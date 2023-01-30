@@ -1,6 +1,6 @@
 # Mechwarrior 5 Mercenaries Mods I am using
 
-I have compiled all the Steam mods into this collection: https://steamcommunity.com/sharedfiles/filedetails/?id=2923486435 all you need to do is subscribe to all of them in the list.
+I have compiled all the Steam mods into this [collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2923486435). All you need to do is subscribe to all of them in the list.
 
 For the other Nexus Mod ones you can just download all of them from this repository and dump them into your mods folder for Mech Warrior.
 
