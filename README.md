@@ -8,35 +8,37 @@ For the other Nexus Mod ones you can just download all of them from this reposit
 
 These ones are from the Steam Workshop that are included in the collection above.
 
-### Remove Jumpship Animation
-
-### No Tonnage Limit
-
-### Colorized HeatGauge
-
-### Yet Another Mechlab
-
-### Yet Another Weapons
-
-### Yet Another Mechlab Clans
-
-### Yet Another Mechlab Mechs
-
-### Pilot Overhaul
+### Advanced Career Start
 
 ### Armor Green
 
-### TTRUles_AIMod2
+### Colorized HeatGauge
+
+### Hero Encounters
 
 ### MW5 Compatibility Pack
 
+### No Tonnage Limit
 
+### Pilot Overhaul
+
+### TTRules_AIMod2
+
+### WAR_FX
+
+### Yet Another Weapon
+
+### Yet Another Mechlab
+
+### Yet Another Weapon Clan
+
+### Yet Another Clan Mech
 
 ## Nexus Mods - Only two are needed from Nexus Mods currently.
 
 ### [Mod Options](https://www.nexusmods.com/mechwarrior5mercenaries/mods/537)
 
-### [Coyotes Mission Pack](https://www.nexusmods.com/mechwarrior5mercenaries/mods/263?tab=description)
+### [Coyotes Mission Pack](https://www.nexusmods.com/mechwarrior5mercenaries/mods/263)
 
 
 <!--- ### [Change Company Name](https://www.nexusmods.com/mechwarrior5mercenaries/mods/294) -->
