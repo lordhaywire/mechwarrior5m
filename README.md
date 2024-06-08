@@ -2,7 +2,7 @@
 
 I have compiled all the Steam mods into this [collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2923486435). All you need to do is subscribe to all of them in the list.
 
-For the other Nexus Mod ones you can just download all of them from this repository and dump them into your mods folder for Mech Warrior.
+The others are on Nexus mod.  Just download them from the links and drop the extracted files into your mods folder.
 
 ## Steam Workshop
 
@@ -34,7 +34,7 @@ These ones are from the Steam Workshop that are included in the collection above
 
 ### Yet Another Clan Mech
 
-## Nexus Mods - Only two are needed from Nexus Mods currently.
+## Nexus Mods
 
 ### [Mod Options](https://www.nexusmods.com/mechwarrior5mercenaries/mods/537)
 
